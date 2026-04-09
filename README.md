@@ -18,11 +18,12 @@ Here's some stuff I've built that I just think is neat:
 * [PageOfBob.Parsing.Compiled](https://github.com/mrdrbob/PageOfBob.Parsing.Compiled) - My C# parsing library. You write parsers in a C#-based DSL, which are then compiled to bytecode at runtime.
 * [Blend.Datastore](https://github.com/blendinteractive/Blend.Datastore) - A minimalist SQL migration system and access pattern, for when Entity Framework is too much, and Dapper is too little. 
 * [Blend.Html.Lexer](https://github.com/blendinteractive/Blend.Html.Lexer) - A library for lexing/parsing HTML, designed for cleaning and transforming HTML while tolerating and even preserving malformed HTML.
+* [Blit](https://github.com/blendinteractive/blit) - A utility/add-on for Optimizely CMS that aids in loading migrated content. By embedding a simple query language into the transform step, content is able to import intelligently, solving many issues with duplicating content, interrupted imports, idempotent updates, etc.
 
 ### /Now
 
-* I'm currently dipping my toes into headless, starting with SvelteKit and Typescript against an GraphQL backend.
-* I write and record music as a hobby. In fact, I wrote and recorded the intro / outro music to my Youtube videos. I plan to write/record at least one new song in 2025.
-* I'm learning French. I can read somewhere between an A1 and A2 fluency level. _(Just don't ask me to speak or understand spoken French)_
+* I'm playing around with some custom vibe-coded AI agents. It's fascinating to see how they behave, the things they choose to commit to their memory files, and the weird way they tend to fixate on specific details.
+* I'm just starting the process of re-writing and re-recording about an album's worth of music I wrote in high school / college. It's a way to get in some practice, but also see how far I've come in the last 20 years as an amature musician / sound engineer.
+* I'm a little more than halfway through reading _La Paste_ by Albert Camus in French. It's a bit above my level, which makes it a bit of slog, but rewarding.
 
 
